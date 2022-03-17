@@ -1,0 +1,11 @@
+﻿global using Kar.Banking.Application.Contracts;
+global using Kar.Banking.Application.Exceptions;
+global using Kar.Banking.Domain.Entities;
+global using Kar.Banking.Domain.Enums;
+global using Moq;
+global using Shouldly;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using Xunit;
